@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roberto\\source\\repos\\hootel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D111FC-79E3-4F02-81DA-4AF6DF64614F}|hootel\\hootel.csproj|c:\\users\\roberto\\source\\repos\\hootel\\hootel\\models\\hotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2D111FC-79E3-4F02-81DA-4AF6DF64614F}|hootel\\hootel.csproj|solutionrelative:hootel\\models\\hotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D111FC-79E3-4F02-81DA-4AF6DF64614F}|hootel\\hootel.csproj|c:\\users\\roberto\\source\\repos\\hootel\\hootel\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2D111FC-79E3-4F02-81DA-4AF6DF64614F}|hootel\\hootel.csproj|solutionrelative:hootel\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D111FC-79E3-4F02-81DA-4AF6DF64614F}|hootel\\hootel.csproj|c:\\users\\roberto\\source\\repos\\hootel\\hootel\\changepasswordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2D111FC-79E3-4F02-81DA-4AF6DF64614F}|hootel\\hootel.csproj|solutionrelative:hootel\\changepasswordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D111FC-79E3-4F02-81DA-4AF6DF64614F}|hootel\\hootel.csproj|c:\\users\\roberto\\source\\repos\\hootel\\hootel\\changepasswordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2D111FC-79E3-4F02-81DA-4AF6DF64614F}|hootel\\hootel.csproj|solutionrelative:hootel\\changepasswordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D111FC-79E3-4F02-81DA-4AF6DF64614F}|hootel\\hootel.csproj|c:\\users\\roberto\\source\\repos\\hootel\\hootel\\models\\statisticshotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2D111FC-79E3-4F02-81DA-4AF6DF64614F}|hootel\\hootel.csproj|solutionrelative:hootel\\models\\statisticshotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D111FC-79E3-4F02-81DA-4AF6DF64614F}|hootel\\hootel.csproj|c:\\users\\roberto\\source\\repos\\hootel\\hootel\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2D111FC-79E3-4F02-81DA-4AF6DF64614F}|hootel\\hootel.csproj|solutionrelative:hootel\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D111FC-79E3-4F02-81DA-4AF6DF64614F}|hootel\\hootel.csproj|c:\\users\\roberto\\source\\repos\\hootel\\hootel\\adminpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2D111FC-79E3-4F02-81DA-4AF6DF64614F}|hootel\\hootel.csproj|solutionrelative:hootel\\adminpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D111FC-79E3-4F02-81DA-4AF6DF64614F}|hootel\\hootel.csproj|c:\\users\\roberto\\source\\repos\\hootel\\hootel\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2D111FC-79E3-4F02-81DA-4AF6DF64614F}|hootel\\hootel.csproj|solutionrelative:hootel\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChangePasswordWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Roberto\\source\\repos\\hootel\\hootel\\ChangePasswordWindow.xaml",
+              "RelativeDocumentMoniker": "hootel\\ChangePasswordWindow.xaml",
+              "ToolTip": "C:\\Users\\Roberto\\source\\repos\\hootel\\hootel\\ChangePasswordWindow.xaml",
+              "RelativeToolTip": "hootel\\ChangePasswordWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-15T11:57:05.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChangePasswordWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\source\\repos\\hootel\\hootel\\ChangePasswordWindow.xaml.cs",
+              "RelativeDocumentMoniker": "hootel\\ChangePasswordWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Roberto\\source\\repos\\hootel\\hootel\\ChangePasswordWindow.xaml.cs",
+              "RelativeToolTip": "hootel\\ChangePasswordWindow.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:57:24.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Roberto\\source\\repos\\hootel\\hootel\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "hootel\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Roberto\\source\\repos\\hootel\\hootel\\MainWindow.xaml",
+              "RelativeToolTip": "hootel\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-15T00:55:48.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HotelManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\source\\repos\\hootel\\hootel\\Models\\HotelManagementContext.cs",
+              "RelativeDocumentMoniker": "hootel\\Models\\HotelManagementContext.cs",
+              "ToolTip": "C:\\Users\\Roberto\\source\\repos\\hootel\\hootel\\Models\\HotelManagementContext.cs",
+              "RelativeToolTip": "hootel\\Models\\HotelManagementContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:53:13.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StatisticsHotel.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\source\\repos\\hootel\\hootel\\Models\\StatisticsHotel.cs",
+              "RelativeDocumentMoniker": "hootel\\Models\\StatisticsHotel.cs",
+              "ToolTip": "C:\\Users\\Roberto\\source\\repos\\hootel\\hootel\\Models\\StatisticsHotel.cs",
+              "RelativeToolTip": "hootel\\Models\\StatisticsHotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:51:16.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Roberto\\source\\repos\\hootel\\hootel\\App.xaml",
+              "RelativeDocumentMoniker": "hootel\\App.xaml",
+              "ToolTip": "C:\\Users\\Roberto\\source\\repos\\hootel\\hootel\\App.xaml",
+              "RelativeToolTip": "hootel\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-15T13:46:28.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminPanel.xaml",
+              "DocumentMoniker": "C:\\Users\\Roberto\\source\\repos\\hootel\\hootel\\AdminPanel.xaml",
+              "RelativeDocumentMoniker": "hootel\\AdminPanel.xaml",
+              "ToolTip": "C:\\Users\\Roberto\\source\\repos\\hootel\\hootel\\AdminPanel.xaml",
+              "RelativeToolTip": "hootel\\AdminPanel.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-15T13:32:44.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\source\\repos\\hootel\\hootel\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "hootel\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Roberto\\source\\repos\\hootel\\hootel\\MainWindow.xaml.cs",
+              "RelativeToolTip": "hootel\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T00:55:43.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
